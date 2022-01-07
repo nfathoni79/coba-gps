@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Coba GPS</string>
+    <string name="btn_start">Mulai Melacak</string>
+    <string name="btn_stop">Berhenti Melacak</string>
+    <string name="lab_lat">Lintang</string>
+    <string name="val_lat">0,0</string>
+    <string name="lab_lon">Bujur</string>
+    <string name="val_lon">0,0</string>
+    <string name="info_default">Info</string>
+    <string name="info_tracking">Melacak…</string>
+    <string name="info_stopped">Dihentikan</string>
+    <string name="info_grant_failed">Gagal mengizinkan akses lokasi</string>
+    <string name="info_gps_off">GPS mati. Mohon hidupkan GPS.</string>
+</resources>

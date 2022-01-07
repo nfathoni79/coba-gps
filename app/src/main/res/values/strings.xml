@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Coba GPS</string>
+    <string name="btn_start">Start Tracking</string>
+    <string name="btn_stop">Stop Tracking</string>
+    <string name="lab_lat">Latitude</string>
+    <string name="val_lat">0.0</string>
+    <string name="lab_lon">Longitude</string>
+    <string name="val_lon">0.0</string>
+    <string name="info_default">Info</string>
+    <string name="info_tracking">Tracking…</string>
+    <string name="info_stopped">Stopped</string>
+    <string name="info_grant_failed">Failed to grant location permission</string>
+    <string name="info_gps_off">GPS is off. Please enable GPS.</string>
+</resources>
